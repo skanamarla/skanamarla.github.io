@@ -1,6 +1,7 @@
 # Sari Kanamarlapudi 
 
 ## Contact 
+[Link](https://www.linkedin.com/in/skanamarla/)
 
 
 ## Education
@@ -15,7 +16,7 @@ Computer Science B.S. - graduated in 2018
 
 
 ## Work Experience 
-### Rapid Healthcare, Irvine, CA - August 2017 - Present 
+### Rapid Healthcare, Irvine, CA - _August 2017 - Present_ 
 Part-time Software Intern
 - Exploring transaction simulations on blockchain for a future endeavour. 
 - Learned how Rapid Health improved NICU misfeeds with a tracking device.
@@ -23,12 +24,12 @@ Part-time Software Intern
 - Made connections with fellow start-ups, including an ethereum based smart contract.
 - Was exposed to a variety of business practices as a result of working in a shared space with other startups.
 
-### Shree Trading LLC, Ladera Ranch, CA - October 2016 - Present 
+### Shree Trading LLC, Ladera Ranch, CA - _October 2016 - Present_ 
 Part-time Business Analyst Trainee
 - Researching business fundamentals and running technical analyses of companies to support equity trading. 
 - Maintain records of trading transactions and analyze data to determine trading scenarios.
 
-### PB Systems, Tustin, CA - October 2015 - December 2015 
+### PB Systems, Tustin, CA - _October 2015 - December 2015_ 
 Software Insurance Intern
 - Worked with other creative minds on acquiring new clientele. 
 - Created a database of CTOs & CMOs to be contacted.
@@ -37,12 +38,12 @@ Software Insurance Intern
 
 
 ## Projects 
-### Re:Time - Time Management Web Application - UI Lead
+### Re:Time - Time Management Web Application - _UI Lead_
 - Created a time management app that lets users upload assignments and subtasks. needed to complete homework and set focus times and deadlines to help workflow.
 - Alerts users of incoming deadlines, assignments, breaks, and task prioritization.
 - Used Javascript, HTML, CSS, and Bootstrap, as well as Heroku.
 
-### TBA - Textbook Selling Mobile Application - QA Lead
+### TBA - Textbook Selling Mobile Application - _QA Lead_
 - Created a textbook selling app that lets users buy and sell textbooks.
 - Used Android Studio to develop a mobile app and Parse to deploy backend.
 - Focused primarily on UI development.
@@ -53,36 +54,14 @@ Software Insurance Intern
 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**Bold** `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skanamarla/skanamarla.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
