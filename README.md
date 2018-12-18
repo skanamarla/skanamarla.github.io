@@ -1,7 +1,7 @@
 # Sari Kanamarlapudi 
 
 ## Contact 
-~~~~~
+
 
 ## Education
 ### University of California, San Diego 
