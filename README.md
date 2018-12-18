@@ -15,7 +15,7 @@ Computer Science B.S. - graduated in 2018
 
 
 ## Work Experience 
-### Rapid Healthcare, Irvine, CA - Aguust 2017 - Present 
+### Rapid Healthcare, Irvine, CA - August 2017 - Present 
 Part-time Software Intern
 - Exploring transaction simulations on blockchain for a future endeavour. 
 - Learned how Rapid Health improved NICU misfeeds with a tracking device.
