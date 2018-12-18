@@ -1,4 +1,4 @@
-### Sari Kanamarlapudi 
+# Sari Kanamarlapudi 
 
 ##  Education
 
