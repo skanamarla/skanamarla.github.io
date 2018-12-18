@@ -42,7 +42,7 @@ Software Insurance Intern
 - Alerts users of incoming deadlines, assignments, breaks, and task prioritization.
 - Used Javascript, HTML, CSS, and Bootstrap, as well as Heroku.
 
-###TBA - Textbook Selling Mobile Application - QA Lead
+### TBA - Textbook Selling Mobile Application - QA Lead
 - Created a textbook selling app that lets users buy and sell textbooks.
 - Used Android Studio to develop a mobile app and Parse to deploy backend.
 - Focused primarily on UI development.
