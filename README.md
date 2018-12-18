@@ -1,7 +1,7 @@
 # Sari Kanamarlapudi 
 
 ## Contact 
-[Link](https://www.linkedin.com/in/skanamarla/)
+[LinkedIn](https://www.linkedin.com/in/skanamarla/)
 
 
 ## Education
